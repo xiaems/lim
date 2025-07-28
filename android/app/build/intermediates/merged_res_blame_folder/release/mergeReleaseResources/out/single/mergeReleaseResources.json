@@ -1,0 +1,586 @@
+[
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_novehicledark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_novehicledark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_homescreenimage_offerbg.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_homescreenimage_offerbg.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_onboarding_bgonboarding.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_onboarding_bgonboarding.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_gif_loader.gif.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_gif_loader.gif"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_profileimage_profileuser.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_profileimage_profileuser.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noticketdark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noticketdark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_payment_creditcard.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_payment_creditcard.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_gif_activeridego.gif.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_gif_activeridego.gif"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_clock.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_clock.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noserviceimagedark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noserviceimagedark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_gif_noservice.gif.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_gif_noservice.gif"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_pizza.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_pizza.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_maintenancedark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_maintenancedark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_ban.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_ban.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_notification_bellnotification.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_notification_bellnotification.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_homescreenimage_ridelogo.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_homescreenimage_ridelogo.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noservice.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noservice.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nochat.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nochat.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_wallet_cardbackground.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_wallet_cardbackground.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_payment_googlepay.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_payment_googlepay.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_or.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_or.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nosignindark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nosignindark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_splash_splashuser.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_splash_splashuser.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_flag.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_flag.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nolocation.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nolocation.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_gif_darkline.gif.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_gif_darkline.gif"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_ridescreen_ridedetaildark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_ridescreen_ridedetaildark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_authimage_authbgdark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_authimage_authbgdark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_profiletab_promocode.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_profiletab_promocode.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noticket.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noticket.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_gif_line.gif.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_gif_line.gif"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_funnel_funnel.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_funnel_funnel.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_trees.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_trees.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_profileimage_profilebackground.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_profileimage_profilebackground.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_splash_splashdark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_splash_splashdark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_discount_discount.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_discount_discount.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_homescreenimage_packagebanner.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_homescreenimage_packagebanner.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_homescreenimage_rentalbanner.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_homescreenimage_rentalbanner.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_line2.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_line2.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_wallet_soon.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_wallet_soon.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nolocationdark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nolocationdark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_gif_waiting.gif.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_gif_waiting.gif"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_ridescreen_ridedetail.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_ridescreen_ridedetail.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_questionmark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_questionmark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_smile.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_smile.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_authimage_otp.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_authimage_otp.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nobalancedark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nobalancedark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-anydpi-v26_ic_launcher_background.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-anydpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_authimage_authbg.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_authimage_authbg.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noserviceimage.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noserviceimage.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_map_pin.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_map_pin.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_search.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_search.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nointernetdark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nointernetdark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_splash_splash.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_splash_splash.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_maintenance.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_maintenance.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_line.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_line.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_payment_paypal.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_payment_paypal.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nosignin.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nosignin.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_football.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_football.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nobalance.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nobalance.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_plane.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_plane.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_profileimage_promocodelist.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_profileimage_promocodelist.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nointernet.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nointernet.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_ridescreen_timerround.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_ridescreen_timerround.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_gif_success.gif.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_gif_success.gif"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_novehicle.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_novehicle.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_close.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_close.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_nooffer.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_nooffer.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_backspace.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_backspace.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_profileimage_defultimage.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_profileimage_defultimage.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_homescreenimage_user.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_homescreenimage_user.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_lightbulb.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_lightbulb.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_authimage_otpdark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_authimage_otpdark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noride.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noride.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_payment_cash.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_payment_cash.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noofferdark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noofferdark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_node_modules_rnemojikeyboard_src_assets_icons_users.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/node_modules_rnemojikeyboard_src_assets_icons_users.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noridedark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noridedark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_walletbg.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_walletbg.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_map_car.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_map_car.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_noservicedark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_noservicedark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_nointernet_image.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_nointernet_image.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_onboarding_bgdarkonboard.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_onboarding_bgdarkonboard.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/drawable-mdpi_src_assets_images_homescreenimage_offerbgdark.png.flat",
+        "source": "com.lumoverse.taxi.app-res-60:/drawable-mdpi/src_assets_images_homescreenimage_offerbgdark.png"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lumoverse.taxi.app-release-66:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.lumoverse.taxi.app-main-67:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    }
+]

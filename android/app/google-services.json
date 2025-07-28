@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "413817509461",
+    "firebase_url": "https://ashry-81eaa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ashry-81eaa",
+    "storage_bucket": "ashry-81eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413817509461:android:081e13205bb95b77c926dc",
+        "android_client_info": {
+          "package_name": "com.lumoverse.taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQhfFixuPpDKk6XYqu7i22gy22e-MKyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
