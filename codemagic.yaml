@@ -7,7 +7,7 @@ workflows:
         JAVA_VERSION: 17
         ANDROID_BUILD_TYPE: release
       node: 18.16.0
-      android: latest
+      java: 17
     scripts:
       - name: Install dependencies
         script: |
@@ -24,4 +24,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - mtrp@live.com
+          - your-email@example.com
