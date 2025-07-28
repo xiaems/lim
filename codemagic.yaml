@@ -16,11 +16,12 @@ workflows:
   #   script: |
   #     npm test
       - name: Build Android APK
-        script: |
-          cd android
-          ./gradlew assembleRelease
+ script: |
+      cd android
+      chmod +x gradlew
+      ./gradlew assembleRelease
     artifacts:
-      - android/app/build/outputs/**/*.apk
+  - android/app/build/outputs/**/*.apk
     publishing:
       email:
         recipients:
