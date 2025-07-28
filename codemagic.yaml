@@ -1,5 +1,27 @@
 workflows:
-    sample-workflow:
-        name: Codemagic Sample Workflow
-        max_build_duration: 120
-        instance_type: mac_mini_m2
+  react-native-android:
+    name: React Native Android CI
+    max_build_duration: 45
+    environment:
+      vars:
+        JAVA_VERSION: 17
+        ANDROID_BUILD_TYPE: release
+      node: 18.16.0
+      android: latest
+    scripts:
+      - name: Install dependencies
+        script: |
+          npm install
+      - name: Run tests
+        script: |
+          npm test
+      - name: Build Android APK
+        script: |
+          cd android
+          ./gradlew assembleRelease
+    artifacts:
+      - android/app/build/outputs/**/*.apk
+    publishing:
+      email:
+        recipients:
+          - mtrp@live.com
