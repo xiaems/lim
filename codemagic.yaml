@@ -12,16 +12,21 @@ workflows:
       - name: Install dependencies
         script: |
           npm install --legacy-peer-deps
- # - name: Run tests
-  #   script: |
-  #     npm test
+
+      # Uncomment the next block if you want to run tests
+      # - name: Run tests
+      #   script: |
+      #     npm test
+
       - name: Build Android APK
- script: |
-      cd android
-      chmod +x gradlew
-      ./gradlew assembleRelease
+        script: |
+          cd android
+          chmod +x gradlew
+          ./gradlew assembleRelease
+
     artifacts:
-  - android/app/build/outputs/**/*.apk
+      - android/app/build/outputs/**/*.apk
+
     publishing:
       email:
         recipients:
